@@ -22,7 +22,7 @@ class ImageGenerator:
         :param images: images to be shown coming from the directory with the training images
         """
         
-        home = '/Users/DrewAfromsky/Desktop/Projects/Behold-ai'
+        home = '/Users/DrewAfromsky/Desktop/Projects/ICH-ai'
 
         fig = plt.figure(figsize=(12,12))
         fig.set_tight_layout(True)
